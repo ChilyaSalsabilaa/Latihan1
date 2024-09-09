@@ -1,0 +1,9 @@
+.form-control1 {
+    padding-left: 20px; /* Memberikan padding hanya pada input nama */
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+    box-sizing: border-box;
+}
